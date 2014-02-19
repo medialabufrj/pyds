@@ -1,7 +1,7 @@
 #
 # merge.py
 # ========
-# create a file from 2 files merged
+# merge 2 files into a new file
 # ---------------------------------
 # usage 1: python merge.py
 # usage 2: python merge.py file1.csv file2.csv merged.csv
